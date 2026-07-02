@@ -1,0 +1,44 @@
+# Geotecnia1 — Passo Fundo
+
+> Geotechnical engineering services in Passo Fundo, Brasil.
+
+## Services
+- [Ancoragens](https://passo-fundo.geotecnia1.org/ancoragens/)
+- [Cbr Viario](https://passo-fundo.geotecnia1.org/cbr-viario/)
+- [Colunas Brita](https://passo-fundo.geotecnia1.org/colunas-brita/)
+- [Densidade Cone Areia](https://passo-fundo.geotecnia1.org/densidade-cone-areia/)
+- [Ensaio Cpt](https://passo-fundo.geotecnia1.org/ensaio-cpt/)
+- [Ensaio Placa Carga](https://passo-fundo.geotecnia1.org/ensaio-placa-carga/)
+- [Escavacoes](https://passo-fundo.geotecnia1.org/escavacoes/)
+- [Escavacoes Profundas](https://passo-fundo.geotecnia1.org/escavacoes-profundas/)
+- [Estabilidade Taludes](https://passo-fundo.geotecnia1.org/estabilidade-taludes/)
+- [Fundacoes](https://passo-fundo.geotecnia1.org/fundacoes/)
+- [Geofisica](https://passo-fundo.geotecnia1.org/geofisica/)
+- [Geotecnia Viaria](https://passo-fundo.geotecnia1.org/geotecnia-viaria/)
+- [Investigacao](https://passo-fundo.geotecnia1.org/investigacao/)
+- [Isolamento Sismico](https://passo-fundo.geotecnia1.org/isolamento-sismico/)
+- [Lab In Situ](https://passo-fundo.geotecnia1.org/lab-in-situ/)
+- [Laboratorio](https://passo-fundo.geotecnia1.org/laboratorio/)
+- [Limites Atterberg](https://passo-fundo.geotecnia1.org/limites-atterberg/)
+- [Liquefacao](https://passo-fundo.geotecnia1.org/liquefacao/)
+- [Masw](https://passo-fundo.geotecnia1.org/masw/)
+- [Melhoramento](https://passo-fundo.geotecnia1.org/melhoramento/)
+- [Microzoneamento Sismico](https://passo-fundo.geotecnia1.org/microzoneamento-sismico/)
+- [Muros Contencao](https://passo-fundo.geotecnia1.org/muros-contencao/)
+- [Pavimento Flexivel](https://passo-fundo.geotecnia1.org/pavimento-flexivel/)
+- [Radiers](https://passo-fundo.geotecnia1.org/radiers/)
+- [Refracao Sismica](https://passo-fundo.geotecnia1.org/refracao-sismica/)
+- [Resistividade](https://passo-fundo.geotecnia1.org/resistividade/)
+- [Sapatas](https://passo-fundo.geotecnia1.org/sapatas/)
+- [Sismica](https://passo-fundo.geotecnia1.org/sismica/)
+- [Sondagens Spt](https://passo-fundo.geotecnia1.org/sondagens-spt/)
+- [Taludes](https://passo-fundo.geotecnia1.org/taludes/)
+- [Triaxial](https://passo-fundo.geotecnia1.org/triaxial/)
+- [Tuneis Solo Mole](https://passo-fundo.geotecnia1.org/tuneis-solo-mole/)
+
+## Contact
+- Website: https://passo-fundo.geotecnia1.org/
+
+## About
+This site provides geotechnical engineering services in Passo Fundo, Brasil.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
